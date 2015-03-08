@@ -59,6 +59,15 @@ github "sudo",        "1.0.0"
 github "xquartz",     "1.2.1"
 github "elasticsearch", "2.7.1"
 github "sublime_text", "1.1.0"
+github "intellij", "1.5.1"
+github "java", "1.7.1"
+github "java6", "0.0.4", :repo => "burnsra/puppet-java6"
+github "dropbox", "1.4.1"
+github "sourcetree", "1.0.0"
+github "chrome", "1.2.0"
+github "hipchat", "1.1.3"
+github "spotify", "1.0.2"
+github "filezilla", "1.0.0", :repo => "dieterdemeyer/puppet-filezilla"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.

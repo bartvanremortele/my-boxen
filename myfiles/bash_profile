@@ -1,0 +1,2 @@
+alias ll='ls -laGp'
+export PS1="[\A]-[\u@\h]-[\W]\\$"
