@@ -14,6 +14,11 @@ GITHUBTARBALL
     dnsmasq (2.0.1)
 
 GITHUBTARBALL
+  remote: boxen/puppet-elasticsearch
+  specs:
+    elasticsearch (2.7.1)
+
+GITHUBTARBALL
   remote: boxen/puppet-foreman
   specs:
     foreman (1.2.0)
@@ -79,6 +84,11 @@ GITHUBTARBALL
     ruby (8.1.7)
 
 GITHUBTARBALL
+  remote: boxen/puppet-sublime_text
+  specs:
+    sublime_text (1.1.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-sudo
   specs:
     sudo (1.0.0)
@@ -107,6 +117,7 @@ DEPENDENCIES
   boxen (= 3.10.2)
   brewcask (= 0.0.6)
   dnsmasq (= 2.0.1)
+  elasticsearch (= 2.7.1)
   foreman (= 1.2.0)
   gcc (= 2.2.0)
   git (= 2.7.5)
@@ -123,6 +134,7 @@ DEPENDENCIES
   repository (= 2.3.0)
   ruby (= 8.1.7)
   stdlib (= 4.2.1)
+  sublime_text (= 1.1.0)
   sudo (= 1.0.0)
   xquartz (= 1.2.1)
 
